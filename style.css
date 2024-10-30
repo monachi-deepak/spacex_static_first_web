@@ -1,0 +1,475 @@
+
+*
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body 
+{
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Starts Here........................................................................................................*/
+
+.Navbar
+{   
+    top: 0;
+    background-color: #000000;
+    width: 100%;
+    height: 6rem;
+    display: flex;
+}
+
+
+
+.navbar-logo
+{
+    margin-left: 18rem ;
+    height: 2.5rem;
+    margin-top: 1.5rem;   
+}
+
+.navbar-menu-li
+{   
+    
+    color: white;
+    padding-inline: .3rem;
+    text-decoration:none;
+    font-size: small;
+    font-weight: 800;
+    padding-bottom: rem;
+    
+
+}
+  
+.navbar-menu-li:hover 
+  {
+    text-decoration: underline;
+    text-decoration-thickness: .19rem;
+    text-underline-offset: .7rem;
+
+  }
+
+.navbar-menu-li-shop
+{
+    margin-left: 19rem;
+    color: white;
+    padding-inline: .3rem;
+    text-decoration:none;
+    font-size: small;
+    font-weight: 800;
+    
+}
+.navbar-menu-li-shop:hover
+
+  {
+    text-decoration: underline;
+    text-decoration-thickness: .19rem;
+  }
+.navbar-menu
+{
+    display:flex;
+    padding-top: 2.5rem;
+}
+
+.dropdown-button
+{
+    margin-top: 2.2rem;
+    margin-left: 1rem;
+    color :rgb(255, 255, 255);
+    background-color: #000000;
+    border: none;
+    font-size:large ;
+    width:1rem;
+    height: 2rem;
+    
+}
+
+
+/* Navbar Ends Here........................................................................................................*/
+
+
+
+.first-bg-image
+{
+    width: 100%;
+    
+}
+
+.first-text-above-first-img
+{
+    font-weight:100;
+    font-size: large;
+    margin-left: 15rem;
+    color: rgb(255, 255, 255);
+}
+
+.second-text-above-first-img
+{
+    
+    color: rgb(255, 255, 255);
+    margin-left: 15rem;
+    padding-top:.5rem;
+    font-size: 2.6rem;
+}
+
+
+
+.first-null-for-spacing
+{
+    margin-bottom: -19rem;
+    
+}
+
+
+.button-on-first-image
+{
+    margin-top: 3rem;
+    margin-left: 15rem;
+    width:10rem;
+    height: 3.5rem;;
+    background-color: #000000;
+    color: white;
+    font-weight: 800;
+    border-radius: .1rem;
+    border-color: white;
+}
+
+.button-on-first-image:hover
+{
+    color: #000000;
+    background-color: white;
+}
+
+
+
+/* First background Image and Text Button Ends Here........................................................................................................*/
+
+.second-bg-image
+{
+    width: 100%;
+    height:66rem;
+}
+
+.first-text-above-second-img
+{
+    font-weight:100;
+    font-size: large;
+    margin-left: 15rem;
+    color: rgb(255, 255, 255);
+}
+
+.second-text-above-second-img
+{
+    
+    color: rgb(255, 255, 255);
+    margin-left: 15rem;
+    padding-top:.5rem;
+    font-size: 2.6rem;
+}
+
+
+
+.second-null-for-spacing
+{
+    margin-bottom: -22rem;
+    
+    
+}
+.for-spacing
+{
+    margin-bottom: 5rem;
+}
+
+
+.button-on-second-image
+{
+    margin-top: 3rem;
+    margin-left: 15rem;
+    width:10rem;
+    height: 3.5rem;;
+    background-color: #000000;
+    color: white;
+    font-weight: 800;
+    border-radius: .1rem;
+    border-color: white;
+}
+
+.button-on-second-image:hover
+{
+    color: #000000;
+    background-color: white;
+}
+
+
+/* second background Image and Text Button Ends Here........................................................................................................*/
+
+.third-bg-image
+{
+    width: 100%;
+    height:66rem;
+}
+
+.first-text-above-third-img
+{
+    font-weight:100;
+    font-size: large;
+    margin-left: 15rem;
+    color: rgb(255, 255, 255);
+}
+
+.second-text-above-third-img
+{
+    
+    color: rgb(255, 255, 255);
+    margin-left: 15rem;
+    padding-top:.5rem;
+    font-size: 2.6rem;
+}
+
+
+
+.third-null-for-spacing
+{
+    margin-bottom: -19rem;
+    
+}
+
+
+.button-on-third-image
+{
+    margin-top: 3rem;
+    margin-left: 15rem;
+    width:10rem;
+    height: 3.5rem;;
+    background-color:transparent;
+    color: white;
+    font-weight: 800;
+    border-radius: .1rem;
+    border-color: white;
+}
+
+.button-on-third-image:hover
+{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+/* third background Image and Text Button Ends Here........................................................................................................*/
+
+.fourth-bg-image
+{
+    width: 100%;
+    height:70rem;
+}
+
+.first-text-above-fourth-img
+{
+    font-weight:100;
+    font-size: large;
+    margin-left: 15rem;
+    color: rgb(255, 255, 255);
+}
+
+.second-text-above-fourth-img
+{
+    
+    color: rgb(255, 255, 255);
+    margin-left: 15rem;
+    padding-top:.5rem;
+    font-size: 2.6rem;
+}
+
+
+
+.fourth-null-for-spacing
+{
+    margin-bottom: -19rem;
+    
+}
+
+
+.button-on-fourth-image
+{
+    margin-top: 3rem;
+    margin-left: 15rem;
+    width:10rem;
+    height: 3.5rem;;
+    background-color:transparent;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    border-radius: .1rem;
+    border-color: rgb(255, 255, 255);
+}
+
+.button-on-fourth-image:hove
+{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+.for-spacing-four
+{
+    position: relative;
+    top: 60rem;
+}
+
+
+
+/* fourth background Image and Text Button Ends Here........................................................................................................*/
+
+.bg-image-five
+{
+    margin-top:-1.8rem;
+    width: 100%;
+    height:66rem;
+}
+
+.first-text-above-fifth-img
+{
+    
+    font-size: 2.6rem;
+    margin-left: 15rem;
+    color: rgb(255, 255, 255);
+}
+
+.second-text-above-fifth-img
+{
+    
+    color: rgb(255, 255, 255);
+    margin-left: 15rem;
+    padding-top:.5rem;
+    font-size: 2.6rem;
+}
+
+
+
+.fifth-null-for-spacing
+{
+    margin-bottom: -19rem;
+    
+}
+
+
+.button-on-fifth-image
+{
+    margin-top: 3rem;
+    margin-left: 15rem;
+    width:10rem;
+    height: 3.5rem;;
+    background-color:transparent;
+    color: white;
+    font-weight: 800;
+    border-radius: .1rem;
+    border-color: white;
+}
+
+.button-on-fifth-image:hover
+{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+/* fifth background Image and Text Button Ends Here........................................................................................................*/
+
+.bg-image-six
+{
+    margin-top:-1.8rem;
+    width: 100%;
+    height:66rem;
+}
+
+.first-text-above-sixth-img
+{
+    
+    font-size: 2.6rem;
+    margin-left: 15rem;
+    color: rgb(255, 255, 255);
+}
+
+.second-text-above-sixth-img
+{
+    
+    color: rgb(255, 255, 255);
+    margin-left: 15rem;
+    padding-top:.5rem;
+    font-size: 2.6rem;
+}
+
+
+
+.sixth-null-for-spacing
+{
+    margin-bottom: -19rem;
+    
+}
+
+
+.button-on-sixth-image
+{
+    margin-top: 3rem;
+    margin-left: 15rem;
+    width:10rem;
+    height: 3.5rem;;
+    background-color:transparent;
+    color: white;
+    font-weight: 800;
+    border-radius: .1rem;
+    border-color: white;
+}
+
+.button-on-sixth-image:hover
+{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+/* sixth background Image and Text Button Ends Here........................................................................................................*/
+/* footer sarts here........................................................................................................*/
+
+.footer
+{
+width:100%;
+height: 5rem;
+padding-top:2rem;
+background-color: #000000;
+}
+
+.footer-text-1
+{
+    margin-left:45rem;
+    text-decoration: none;
+    color: rgb(161, 157, 157);
+    font-size:.7rem;
+    font-weight: 100;
+}
+
+
+.footer-text-2
+{
+    margin-left:4rem;
+    text-decoration: none;
+    color:white;
+    font-size:.8rem;
+    font-weight: 800;
+}
+
+.footer-text-3
+{
+    margin-left:4rem;
+    text-decoration: none;
+    color: white;
+    font-size:.8rem;
+    font-weight: 800;
+}
+.footer-text-2:hover
+{
+    color: rgb(161, 157, 157);
+}
+
+.footer-text-3:hover
+{
+    color: rgb(161, 157, 157);
+}
