@@ -36,11 +36,7 @@ CSS3: For styling, layout, and responsive design.
 Setup and Usage
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/spacex-static-webpage.git
-cd spacex-static-webpage
-Open the Project:
+
 
 Navigate to the project folder.
 Open index.html in your web browser.
